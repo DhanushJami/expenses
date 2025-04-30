@@ -1,0 +1,251 @@
+Description,Amount,Date,Category
+Expense 1,2724.0,2023-11-04,Salaries
+Expense 2,3010.0,2024-08-21,Marketing
+Expense 3,2662.0,2024-11-07,Salaries
+Expense 4,1514.0,2024-11-15,Travel
+Expense 5,2772.0,2023-04-01,Marketing
+Expense 6,3115.0,2023-07-05,Travel
+Expense 7,,2024-07-01,Office Supplies
+Expense 8,1026.0,2024-06-09,R&D
+Expense 9,3892.0,2024-08-05,Office Supplies
+Expense 10,,2024-07-18,Office Supplies
+Expense 11,,2023-01-24,Marketing
+Expense 12,3785.0,2024-02-02,Travel
+Expense 13,2246.0,2023-11-07,Salaries
+Expense 14,2840.0,2023-05-20,Salaries
+Expense 15,4031.0,2024-10-20,Travel
+Expense 16,,2023-06-24,Office Supplies
+Expense 17,,2023-12-21,Office Supplies
+Expense 18,4370.0,2024-04-14,Marketing
+Expense 19,,2023-08-06,Marketing
+Expense 20,,2024-06-29,Marketing
+Expense 21,2096.0,2023-08-08,R&D
+Expense 22,4108.0,2024-02-09,Marketing
+Expense 23,1693.0,2023-10-25,Marketing
+Expense 24,1084.0,2024-09-04,Office Supplies
+Expense 25,,2024-06-18,R&D
+Expense 26,,2023-11-24,R&D
+Expense 27,2082.0,2024-01-28,Salaries
+Expense 28,1232.0,2023-10-26,R&D
+Expense 29,4844.0,2024-04-29,Salaries
+Expense 30,3459.0,2023-08-25,R&D
+Expense 31,,2024-01-23,Salaries
+Expense 32,1927.0,2024-04-03,Salaries
+Expense 33,3268.0,2023-05-11,R&D
+Expense 34,,2023-10-26,R&D
+Expense 35,2094.0,2024-11-16,Marketing
+Expense 36,2886.0,2024-03-06,Travel
+Expense 37,4811.0,2024-02-08,Travel
+Expense 38,1249.0,2023-04-04,R&D
+Expense 39,,2023-01-11,Marketing
+Expense 40,3285.0,2023-07-16,Office Supplies
+Expense 41,1525.0,2023-06-05,R&D
+Expense 42,3662.0,2024-02-18,Travel
+Expense 43,1982.0,2023-01-30,R&D
+Expense 44,3520.0,2023-05-01,Office Supplies
+Expense 45,2974.0,2024-05-17,Marketing
+Expense 46,,2023-12-08,R&D
+Expense 47,3915.0,2024-06-05,Salaries
+Expense 48,4213.0,2023-06-26,Marketing
+Expense 49,4229.0,2023-11-16,Salaries
+Expense 50,4637.0,2023-05-04,Office Supplies
+Expense 51,3186.0,2024-01-15,R&D
+Expense 52,2590.0,2023-03-10,Travel
+Expense 53,3952.0,2023-03-17,Salaries
+Expense 54,2144.0,2023-02-15,R&D
+Expense 55,4017.0,2024-10-31,Salaries
+Expense 56,,2023-04-09,Salaries
+Expense 57,2268.0,2023-10-05,R&D
+Expense 58,4887.0,2024-02-06,Office Supplies
+Expense 59,3723.0,2023-03-25,Marketing
+Expense 60,4404.0,2024-05-16,Marketing
+Expense 61,,2024-10-30,Salaries
+Expense 62,3598.0,2023-11-08,Travel
+Expense 63,4989.0,2023-12-31,Salaries
+Expense 64,4903.0,2023-01-16,Travel
+Expense 65,3283.0,2024-11-20,Salaries
+Expense 66,3419.0,2023-11-11,Salaries
+Expense 67,1969.0,2024-08-25,Travel
+Expense 68,,2024-02-07,Office Supplies
+Expense 69,,2024-04-19,Marketing
+Expense 70,,2024-03-31,R&D
+Expense 71,4432.0,2023-02-10,Travel
+Expense 72,2757.0,2023-12-19,Office Supplies
+Expense 73,4706.0,2024-08-11,Travel
+Expense 74,3538.0,2023-01-16,R&D
+Expense 75,2860.0,2024-12-23,Marketing
+Expense 76,4577.0,2024-10-21,R&D
+Expense 77,1665.0,2024-03-19,R&D
+Expense 78,3058.0,2024-05-07,Travel
+Expense 79,1411.0,2023-01-13,R&D
+Expense 80,2381.0,2023-09-10,Marketing
+Expense 81,3656.0,2023-04-24,Travel
+Expense 82,1529.0,2023-09-26,Marketing
+Expense 83,1360.0,2023-02-19,Travel
+Expense 84,2153.0,2024-07-30,Salaries
+Expense 85,2192.0,2023-03-31,Office Supplies
+Expense 86,1050.0,2024-10-20,R&D
+Expense 87,1618.0,2024-05-05,Office Supplies
+Expense 88,1098.0,2023-06-17,Salaries
+Expense 89,2974.0,2024-10-31,R&D
+Expense 90,4319.0,2023-08-12,Salaries
+Expense 91,2687.0,2023-12-18,Salaries
+Expense 92,3699.0,2023-03-23,Salaries
+Expense 93,2689.0,2023-03-17,Office Supplies
+Expense 94,4395.0,2024-05-21,Office Supplies
+Expense 95,1506.0,2023-08-04,R&D
+Expense 96,3743.0,2024-12-12,R&D
+Expense 97,,2023-04-26,R&D
+Expense 98,,2024-11-20,Salaries
+Expense 99,1993.0,2024-01-19,Office Supplies
+Expense 100,3744.0,2024-02-17,R&D
+Expense 101,1573.0,2023-11-09,R&D
+Expense 102,1312.0,2024-01-16,Office Supplies
+Expense 103,1123.0,2023-06-11,Salaries
+Expense 104,2944.0,2024-06-06,Marketing
+Expense 105,,2023-02-07,Salaries
+Expense 106,4371.0,2024-11-27,Salaries
+Expense 107,4486.0,2024-11-10,Salaries
+Expense 108,3893.0,2023-04-06,Marketing
+Expense 109,,2024-12-10,Marketing
+Expense 110,1041.0,2024-10-03,R&D
+Expense 111,1306.0,2024-02-28,Salaries
+Expense 112,,2024-03-08,Salaries
+Expense 113,,2024-04-21,Marketing
+Expense 114,3156.0,2024-08-09,R&D
+Expense 115,,2024-04-24,R&D
+Expense 116,4025.0,2024-05-07,Salaries
+Expense 117,1015.0,2023-08-22,Salaries
+Expense 118,4944.0,2023-06-24,Salaries
+Expense 119,,2024-06-24,Travel
+Expense 120,4840.0,2024-10-17,Travel
+Expense 121,,2023-05-02,Salaries
+Expense 122,3241.0,2024-07-03,Marketing
+Expense 123,1325.0,2023-05-11,Salaries
+Expense 124,2388.0,2023-11-26,R&D
+Expense 125,3151.0,2023-07-07,Office Supplies
+Expense 126,2184.0,2023-08-13,Travel
+Expense 127,2334.0,2023-10-03,Salaries
+Expense 128,3761.0,2024-01-22,Office Supplies
+Expense 129,4931.0,2023-06-10,Salaries
+Expense 130,1883.0,2023-06-17,Travel
+Expense 131,2612.0,2024-08-29,Salaries
+Expense 132,2056.0,2023-12-07,Marketing
+Expense 133,2797.0,2023-03-20,Marketing
+Expense 134,3725.0,2023-08-19,Office Supplies
+Expense 135,1325.0,2024-06-10,Marketing
+Expense 136,4532.0,2024-02-17,Travel
+Expense 137,3783.0,2023-05-05,R&D
+Expense 138,2561.0,2024-10-21,Office Supplies
+Expense 139,4443.0,2024-08-14,R&D
+Expense 140,3575.0,2023-07-20,Travel
+Expense 141,4427.0,2023-07-05,Marketing
+Expense 142,,2024-05-08,Office Supplies
+Expense 143,,2023-04-03,Travel
+Expense 144,3702.0,2023-07-13,Office Supplies
+Expense 145,3024.0,2024-04-02,Salaries
+Expense 146,4161.0,2023-06-20,Marketing
+Expense 147,,2024-10-18,Salaries
+Expense 148,3187.0,2024-12-12,Travel
+Expense 149,4122.0,2024-10-25,Travel
+Expense 150,3807.0,2023-01-24,Salaries
+Expense 151,2961.0,2024-11-24,Office Supplies
+Expense 152,3022.0,2023-06-10,Office Supplies
+Expense 153,3292.0,2024-04-13,Travel
+Expense 154,1144.0,2024-01-23,Marketing
+Expense 155,3145.0,2024-06-02,R&D
+Expense 156,3970.0,2024-01-02,Salaries
+Expense 157,3828.0,2024-10-26,Salaries
+Expense 158,1555.0,2023-04-02,Office Supplies
+Expense 159,3460.0,2024-02-25,Salaries
+Expense 160,,2024-09-10,Office Supplies
+Expense 161,1457.0,2023-01-17,R&D
+Expense 162,4958.0,2024-02-05,Marketing
+Expense 163,4352.0,2024-06-08,Travel
+Expense 164,3633.0,2024-06-30,Salaries
+Expense 165,2684.0,2023-10-22,R&D
+Expense 166,3406.0,2023-12-30,Office Supplies
+Expense 167,1224.0,2024-02-28,Travel
+Expense 168,3249.0,2024-06-15,Travel
+Expense 169,4929.0,2024-07-06,R&D
+Expense 170,4840.0,2024-10-02,Travel
+Expense 171,3195.0,2023-03-12,Salaries
+Expense 172,4611.0,2023-11-03,Salaries
+Expense 173,1116.0,2024-07-08,R&D
+Expense 174,,2024-11-13,Salaries
+Expense 175,2091.0,2024-07-01,Office Supplies
+Expense 176,1720.0,2023-03-28,Travel
+Expense 177,,2023-12-07,Salaries
+Expense 178,,2024-06-26,R&D
+Expense 179,1795.0,2023-04-21,Office Supplies
+Expense 180,3866.0,2023-12-17,Salaries
+Expense 181,,2023-08-30,Salaries
+Expense 182,,2024-11-15,Travel
+Expense 183,3034.0,2024-12-25,Salaries
+Expense 184,3428.0,2024-12-16,Office Supplies
+Expense 185,,2024-04-26,Travel
+Expense 186,,2024-02-13,Travel
+Expense 187,1749.0,2023-10-08,R&D
+Expense 188,4048.0,2023-07-06,Travel
+Expense 189,1323.0,2024-04-13,R&D
+Expense 190,2168.0,2023-10-26,Marketing
+Expense 191,2838.0,2023-10-24,Travel
+Expense 192,4994.0,2023-11-27,Office Supplies
+Expense 193,2953.0,2024-07-01,Office Supplies
+Expense 194,1592.0,2024-06-14,Office Supplies
+Expense 195,,2024-08-27,Office Supplies
+Expense 196,1678.0,2023-02-20,R&D
+Expense 197,,2024-04-14,R&D
+Expense 198,,2024-07-17,Marketing
+Expense 199,4593.0,2024-10-06,Salaries
+Expense 200,1329.0,2024-07-01,Office Supplies
+Expense 201,,2023-03-18,R&D
+Expense 202,,2024-07-04,Travel
+Expense 203,3122.0,2024-12-05,Office Supplies
+Expense 204,2803.0,2024-12-07,Office Supplies
+Expense 205,3760.0,2024-01-05,R&D
+Expense 206,4718.0,2024-01-05,Salaries
+Expense 207,4509.0,2024-11-30,R&D
+Expense 208,4329.0,2023-03-20,Office Supplies
+Expense 209,2948.0,2023-10-14,Marketing
+Expense 210,3757.0,2023-08-31,Marketing
+Expense 211,1354.0,2023-03-31,Travel
+Expense 212,2494.0,2024-06-01,Marketing
+Expense 213,4442.0,2023-12-18,Travel
+Expense 214,3769.0,2023-12-27,R&D
+Expense 215,3770.0,2024-11-08,R&D
+Expense 216,1106.0,2024-12-07,Travel
+Expense 217,,2023-08-01,Salaries
+Expense 218,1184.0,2024-05-02,Office Supplies
+Expense 219,1313.0,2023-06-26,R&D
+Expense 220,,2024-09-17,Salaries
+Expense 221,3636.0,2024-05-15,R&D
+Expense 222,3187.0,2024-09-16,Salaries
+Expense 223,,2024-01-18,R&D
+Expense 224,3164.0,2023-09-16,Salaries
+Expense 225,,2024-08-27,R&D
+Expense 226,3321.0,2023-09-09,Marketing
+Expense 227,3938.0,2023-04-14,R&D
+Expense 228,2078.0,2023-12-21,R&D
+Expense 229,3629.0,2024-07-03,Travel
+Expense 230,3624.0,2023-05-21,Salaries
+Expense 231,1679.0,2023-02-13,Travel
+Expense 232,1669.0,2024-10-10,Salaries
+Expense 233,4576.0,2023-08-10,Travel
+Expense 234,4961.0,2024-07-11,R&D
+Expense 235,2065.0,2023-12-22,Office Supplies
+Expense 236,4574.0,2024-05-16,Marketing
+Expense 237,,2023-03-07,R&D
+Expense 238,3440.0,2024-09-13,R&D
+Expense 239,1283.0,2024-02-22,Office Supplies
+Expense 240,1052.0,2024-12-28,Marketing
+Expense 241,,2024-05-30,Marketing
+Expense 242,3897.0,2023-09-10,R&D
+Expense 243,3566.0,2024-04-18,R&D
+Expense 244,2651.0,2023-01-19,Salaries
+Expense 245,2328.0,2024-08-30,Travel
+Expense 246,1572.0,2023-08-05,Salaries
+Expense 247,3865.0,2023-07-23,Travel
+Expense 248,,2024-04-19,Office Supplies
+Expense 249,1129.0,2023-01-29,Travel
+Expense 250,2693.0,2024-07-27,Travel
